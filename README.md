@@ -20,7 +20,7 @@ We test the program by several sample input files in the following format: An in
 (16050, 950) -> (1050, 15950)<br>
 (29100, 24300) -> (18900, 26000)<br>
 (20950, 9500) -> (20950, 28700)<br>
-![input400](https://user-images.githubusercontent.com/26019998/30012958-53fc0470-90f8-11e7-8b88-adcc1ce70d4a.png)
+![image](https://user-images.githubusercontent.com/26019998/30013406-39634d96-90fb-11e7-95a9-d26999831236.png)
 
 
 ## Dependencies
