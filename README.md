@@ -11,7 +11,7 @@ $ java FastCollinearPoints input400.txt
 ```
 
 ## Demo
-We test the program by several sample input files in the following format: An integer n, followed by n pairs of integers (x, y), each between 0 and 32,767. Below are two examples:
+We test the program by several sample input files in the following format: An integer n, followed by n pairs of integers (x, y), each between 0 and 32,767. Below are two examples:<br>
 <img width="360" height="225" src="https://github.com/xiaoluo2017/Pattern-Recognition/blob/master/image/input200.png"/>
 <img width="360" height="225" src="https://github.com/xiaoluo2017/Pattern-Recognition/blob/master/image/input400.png"/>
 
